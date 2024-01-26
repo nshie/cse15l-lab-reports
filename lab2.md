@@ -92,3 +92,6 @@ The absolute path of my private SSH key for logging into ieng6 is:
 ![Screenshot 4](https://github.com/nshie/cse15l-lab-reports/blob/main/lab2-screenshot-public-key.png)
 The absolute path of my public SSH key for logging into ieng6 is:
 `/home/linux/ieng6/oce/34/534/nshie/.ssh/authorized_keys`
+
+### Part 3
+In the week 2 lab, I learned that you could write HTTP servers in Java. I don't know why I thought you couldn't, but that was a capability of Java that I didn't expect. I also learned that there are some files that you have to compile at the same time as other files because of dependencies inside the code. I didn't realize that javac took more than 1 argument for compiling multiple files at the same time.
