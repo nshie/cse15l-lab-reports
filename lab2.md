@@ -50,7 +50,7 @@ class ChatServer {
 ```
 
 Here are the screenshots showing my server working properly as a chat server:
-![Screenshot 1](https://github.com/nshie/cse15l-lab-reports/blob/main/lab2-screenshot-test1.png)
+![Screenshot 1](/lab2-screenshot-test1.png)
 This first screenshot shows the handleRequest function, taking in the URL I supplied at the top of the screenshot (http://localhost:2000/add-message?s=hey%20look,%20it%20works!&user=test1). The local `string` field is being updated from
 ```
 Nathan: How are you
@@ -66,7 +66,7 @@ test1: hey look, it works!
 ```
 This adds the line `test1: hey look, it works!`.
 
-![Screenshot 2](https://github.com/nshie/cse15l-lab-reports/blob/main/lab2-screenshot-test2.png)
+![Screenshot 2](/lab2-screenshot-test2.png)
 This first screenshot shows the handleRequest function, taking in the URL I supplied at the top of the screenshot (http://localhost:2000/add-message?s=yeah,%20it%20does!&user=test2). The local `string` field is being updated from
 ```
 Nathan: How are you
