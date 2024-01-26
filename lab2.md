@@ -46,5 +46,5 @@ class ChatServer {
 ```
 
 Here are the screenshots showing my server working properly as a chat server:
-![Screenshot 1](https://github.com/nshie/cse15l-lab-reports/main/lab2-screenshot-test1.png)
-![Screenshot 2](https://github.com/nshie/cse15l-lab-reports/main/lab2-screenshot-test2.png)
+![Screenshot 1](https://github.com/nshie/cse15l-lab-reports/blob/main/lab2-screenshot-test1.png)
+![Screenshot 2](https://github.com/nshie/cse15l-lab-reports/blob/main/lab2-screenshot-test2.png)
