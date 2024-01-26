@@ -85,11 +85,11 @@ test2: yeah, it does!
 This adds the line `test2: yeah, it does!`.
 
 ### Part 2
-![Screenshot 3](https://github.com/nshie/cse15l-lab-reports/blob/main/lab2-screenshot-private-key.png)
+![Screenshot 3](/lab2-screenshot-private-key.png)
 The absolute path of my private SSH key for logging into ieng6 is:
 `c/Users/njshi/.ssh/id_rsa`
 
-![Screenshot 4](https://github.com/nshie/cse15l-lab-reports/blob/main/lab2-screenshot-public-key.png)
+![Screenshot 4](/lab2-screenshot-public-key.png)
 The absolute path of my public SSH key for logging into ieng6 is:
 `/home/linux/ieng6/oce/34/534/nshie/.ssh/authorized_keys`
 
