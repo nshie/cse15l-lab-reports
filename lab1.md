@@ -1,4 +1,4 @@
-### Lab Report 1
+# Lab Report 1
 
 ## Command: cd
 `cd` without any arguments takes the user back to the home directory
