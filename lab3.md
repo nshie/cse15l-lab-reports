@@ -23,7 +23,7 @@ public void testReverseInPlace() {
 ```
 
 The symptom was this error:
-![](lab3-screenshot-testReverseInPlace-error)
+![Screenshot 1](lab3-screenshot-testReverseInPlace-error.png)
 
 The bug was that the old code was accessing the same array it was modifying (using `arr[i] = arr[arr.length - i - 1];`). This meant flipping the first half worked fine, but then the second half was just copying the already copied values, meaning the resulting array would be a mirror of the second half.
 ```
