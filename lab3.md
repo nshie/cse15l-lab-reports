@@ -143,4 +143,4 @@ government/Gen_Account_Office/pe1019.txt
 ```
 This shows only 2 files mention George Washington in the government folder, ai00134.txt and pe1019.txt
 
-All command line options found from https://www.gnu.org/software/grep/manual/grep.html
+All command line options found from the [GNU Manual](https://www.gnu.org/software/grep/manual/grep.html)
