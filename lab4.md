@@ -37,3 +37,7 @@ This pasted `bash test.sh` into the terminal and ran the tests
 
 ### Step 9
 `git add ListExamples.java`
+`git commit -m Fixed ListExamples.java`
+`git push`
+![](step9.png)
+This added my changes to ListExamples.java to the current commit, then staged and pushed the commit.
